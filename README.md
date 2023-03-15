@@ -1,5 +1,5 @@
 # state-tutorial
-Practice React State + Updates
+I wrote this tutorial (with confetti included) to help a friend practice their React state & lifecycle skills.
 
 1. `npm install`
 2. `npm start`
